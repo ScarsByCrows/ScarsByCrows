@@ -38,7 +38,7 @@ exploring modeling, visual composition and design.
 ## 🧩 Featured Projects
 
 ### 🌐 Personal Services Platform  
-[🔗 View Repository](https://github.com/ScarsByCrows/REPO1)
+[🔗 View Repository](https://github.com/ScarsByCrows/WEB-PROJECT)
 
 Responsive website to present personal services including English tutoring, Blender basics and web development.
 
@@ -46,7 +46,7 @@ Responsive website to present personal services including English tutoring, Blen
 - Focus: Clean UI, accessibility and structure  
 
 ### 🛍️ Small Business Web Platform  
-[🔗 View Repository](https://github.com/ScarsByCrows/REPO2)
+[🔗 View Repository](https://github.com/ScarsByCrows/Miscelanea-Chava)
 
 Frontend website developed for a real small business, showcasing products and improving user interaction.
 
@@ -63,6 +63,3 @@ Frontend website developed for a real small business, showcasing products and im
 
 🚀 Goal: Become a full-stack developer with strong foundations  
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ScarsByCrows&show_icons=true&theme=tokyonight)
