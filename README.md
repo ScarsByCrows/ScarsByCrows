@@ -2,7 +2,9 @@
 
 # 🐦‍⬛ ScarsByCrows
 
-<img src="https://github.com/ScarsByCrows.png" width="150" style="border-radius: 50%;" />
+<p align="center">
+  <img src="https://github.com/ScarsByCrows.png" width="150" />
+</p>
 
 ### 💻 Developer | 🎮 Streamer | 🎨 3D Artist
 
